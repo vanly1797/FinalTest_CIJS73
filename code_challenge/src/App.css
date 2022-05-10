@@ -1,0 +1,58 @@
+.box-total{
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 25px;
+}
+
+.box-input{
+    margin-bottom: 10px;
+}
+
+.box-input input{
+    margin-left: 5px;
+    height: 30px;
+    width: 200px;
+    background-color: #E1E1E1;
+    border-radius: 5px;
+    border: none;
+    padding: 2px 10px;
+    font-weight: bold;
+}
+
+.box-input button{
+    height: 30px;
+    padding: 6px 10px;
+    margin-left: 5px;
+    background-color: #21253F;
+    color: white;
+    cursor: pointer;
+}
+
+.box-require button{
+    margin-left: 5px;
+    cursor: pointer;
+    padding: 6px 10px;
+    background-color: #E1E1E1;
+    border: none;
+    font-weight: bold;
+}
+
+.box-error{
+    border-radius: 5px;
+    background-color: #FF3860;
+    color: white;
+    margin-top: 5px;
+    padding: 6px 10px;
+    font-size: 20px;
+}
+
+.box-result-link{
+    border: 1px solid black;
+    width: 500px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
